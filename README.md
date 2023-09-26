@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @keirrkagaard27
+- 👀 I’m interested in C++, C & C# and the counter parts of the c suite, cybersecurity, philosophy of programming, and web development.
+- 🌱 I’m currently learning C++ and C
+- 💞️ I’m looking to collaborate on web development, NSE's, html, c#, xml, js, and css debugging and help
